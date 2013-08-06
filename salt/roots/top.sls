@@ -1,0 +1,4 @@
+base:
+  '*':
+    - global
+    - hiawatha.hiawatha
